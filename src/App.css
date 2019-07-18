@@ -19,6 +19,11 @@
   color: white;
 }
 
+#main-content {
+  background: #fafafa;
+  height: 1000px;
+}
+
 .App-link {
   color: #61dafb;
 }
