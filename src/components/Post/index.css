@@ -1,0 +1,13 @@
+.postContainer {
+    margin-top: 40px;
+    box-shadow: 1px 5px 10px 1px #ccc
+}
+
+.postContainer .profile {
+    background: #ffffff;
+    padding: 10px 10px;
+}
+
+.postContainer img {
+    width: 100%;
+}

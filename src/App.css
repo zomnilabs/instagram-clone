@@ -19,9 +19,27 @@
   color: white;
 }
 
+#post-list {
+  margin: 0px auto;
+}
+
+#title {
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.header {
+  background: #fff;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+
 #main-content {
   background: #fafafa;
-  height: 1000px;
+  padding-top: 100px;
+  height: 100%;
 }
 
 .App-link {
